@@ -1,0 +1,30 @@
+
+body {
+  background-color: lightyellow;
+}
+
+h1 {
+  font-family: serif;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: serif;
+  font-size: 25px;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+p {
+  font-family: serif;
+  font-size: 17px;
+}
